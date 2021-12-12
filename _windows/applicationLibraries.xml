@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="junit-3.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/IdeaProjects/Java_DataScience_EssT/Exercise Files/libs/junit-3.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="libs">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
