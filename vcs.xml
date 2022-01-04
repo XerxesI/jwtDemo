@@ -30,9 +30,21 @@
           <option name="url" value="https://github.com/amigoscode/java-functional-programming.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/XerxesI/tutorials/tree/master/jjwt" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/XerxesI/tutorials/jjwt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/XerxesI/tutorials/tree/master/jjwt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IdeaProjects\MySpringProjects" />
+    <option name="cloneParentDir" value="E:\IdeaProjects\MySpringProjects\baeldung" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
