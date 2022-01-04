@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'jpa_test_1'" />
-    <option name="defaultScopeName" value="Project 'jpa_test_1'" />
-    <option name="SEARCH_SCOPE" value="Project 'jpa_test_1'" />
+    <option name="customScope" value="Project 'jjwt'" />
+    <option name="defaultScopeName" value="Project 'jjwt'" />
+    <option name="SEARCH_SCOPE" value="Project 'jjwt'" />
   </component>
 </application>
