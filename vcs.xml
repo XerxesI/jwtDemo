@@ -54,9 +54,13 @@
           <option name="url" value="https://github.com/TechPrimers/spring-batch-example-1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/XerxesI/spring-boot-batch-integration-sample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IdeaProjects\MySpringProjects\Integration\Spring batch" />
+    <option name="cloneParentDir" value="E:\IdeaProjects\MySpringProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
